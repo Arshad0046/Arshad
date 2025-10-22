@@ -147,8 +147,7 @@ I'm a passionate **Computer Science graduate** specializing in **Python backend 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arshadsk32543@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ttps://www.linkedin.com/in/arshad-sk-695387237/
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ttps://www.linkedin.com/in/arshad-sk-695387237/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arshad0046.github.io/Portfolio/portfolio.html)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arshad0046)
 
